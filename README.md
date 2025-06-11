@@ -13,6 +13,6 @@ The Fourier series is more convenient to write using imaginary numbers. If $f(x)
 
 $$ f_{approx}(x) = \sum_{n= -\infty}^{\infty}  c_n e^{i n \pi x/L} $$
 
-Where $i = \sqrt{-1} $ and $$c_n = \frac{1}{2L} \int_{-L}^{L} f(x) e^{- i n \pi x /L}$$
+Where $$i = \sqrt{-1} $$ and $$c_n = \frac{1}{2L} \int_{-L}^{L} f(x) e^{- i n \pi x /L}$$
 
 This concept can be used to make epicycles to draw anything. Here you can upload an svg file, modify the code and see the animation drawing you the image you gave.
